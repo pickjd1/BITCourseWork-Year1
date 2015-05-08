@@ -1,0 +1,4 @@
+H:\IN511 Programming 2\Week 3\LooneyTunesRace\LooneyTunesRace\obj\x86\Debug\LooneyTunesRace.csprojResolveAssemblyReference.cache
+H:\IN511 Programming 2\Week 3\LooneyTunesRace\LooneyTunesRace\obj\x86\Debug\LooneyTunesRace.Race.resources
+H:\IN511 Programming 2\Week 3\LooneyTunesRace\LooneyTunesRace\obj\x86\Debug\LooneyTunesRace.Properties.Resources.resources
+H:\IN511 Programming 2\Week 3\LooneyTunesRace\LooneyTunesRace\obj\x86\Debug\LooneyTunesRace.csproj.GenerateResource.Cache

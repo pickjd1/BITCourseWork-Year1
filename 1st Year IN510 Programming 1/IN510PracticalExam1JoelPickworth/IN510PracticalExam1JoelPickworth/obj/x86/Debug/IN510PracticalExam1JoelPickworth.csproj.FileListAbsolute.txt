@@ -1,0 +1,5 @@
+h:\my documents\visual studio 2010\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe
+h:\my documents\visual studio 2010\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.pdb
+h:\my documents\visual studio 2010\Projects\ConsoleApplication23\ConsoleApplication23\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\my documents\visual studio 2010\Projects\ConsoleApplication23\ConsoleApplication23\obj\x86\Debug\ConsoleApplication23.exe
+h:\my documents\visual studio 2010\Projects\ConsoleApplication23\ConsoleApplication23\obj\x86\Debug\ConsoleApplication23.pdb

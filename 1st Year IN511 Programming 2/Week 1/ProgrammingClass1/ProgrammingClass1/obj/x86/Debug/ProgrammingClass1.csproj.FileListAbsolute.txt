@@ -1,0 +1,7 @@
+H:\IN511 Programming 2\Week 1\ProgrammingClass1\ProgrammingClass1\bin\Debug\ProgrammingClass1.exe
+H:\IN511 Programming 2\Week 1\ProgrammingClass1\ProgrammingClass1\bin\Debug\ProgrammingClass1.pdb
+H:\IN511 Programming 2\Week 1\ProgrammingClass1\ProgrammingClass1\obj\x86\Debug\ProgrammingClass1.Form1.resources
+H:\IN511 Programming 2\Week 1\ProgrammingClass1\ProgrammingClass1\obj\x86\Debug\ProgrammingClass1.Properties.Resources.resources
+H:\IN511 Programming 2\Week 1\ProgrammingClass1\ProgrammingClass1\obj\x86\Debug\ProgrammingClass1.csproj.GenerateResource.Cache
+H:\IN511 Programming 2\Week 1\ProgrammingClass1\ProgrammingClass1\obj\x86\Debug\ProgrammingClass1.exe
+H:\IN511 Programming 2\Week 1\ProgrammingClass1\ProgrammingClass1\obj\x86\Debug\ProgrammingClass1.pdb

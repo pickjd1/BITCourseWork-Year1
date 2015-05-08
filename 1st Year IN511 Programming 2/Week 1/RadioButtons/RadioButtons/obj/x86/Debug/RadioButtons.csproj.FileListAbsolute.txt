@@ -1,0 +1,7 @@
+H:\IN511 Programming 2\Week 1\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe
+H:\IN511 Programming 2\Week 1\RadioButtons\RadioButtons\bin\Debug\RadioButtons.pdb
+H:\IN511 Programming 2\Week 1\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.Form1.resources
+H:\IN511 Programming 2\Week 1\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.Properties.Resources.resources
+H:\IN511 Programming 2\Week 1\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.csproj.GenerateResource.Cache
+H:\IN511 Programming 2\Week 1\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.exe
+H:\IN511 Programming 2\Week 1\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.pdb

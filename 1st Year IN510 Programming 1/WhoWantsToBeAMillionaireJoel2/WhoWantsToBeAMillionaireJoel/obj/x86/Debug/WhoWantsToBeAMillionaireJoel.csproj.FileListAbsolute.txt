@@ -1,0 +1,10 @@
+C:\Users\Joel - PC\Documents\Visual Studio 2010\Projects\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\bin\Debug\WhoWantsToBeAMillionaireJoel.exe
+C:\Users\Joel - PC\Documents\Visual Studio 2010\Projects\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\bin\Debug\WhoWantsToBeAMillionaireJoel.pdb
+C:\Users\Joel - PC\Documents\Visual Studio 2010\Projects\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\obj\x86\Debug\WhoWantsToBeAMillionaireJoel.csprojResolveAssemblyReference.cache
+C:\Users\Joel - PC\Documents\Visual Studio 2010\Projects\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\obj\x86\Debug\WhoWantsToBeAMillionaireJoel.exe
+C:\Users\Joel - PC\Documents\Visual Studio 2010\Projects\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\obj\x86\Debug\WhoWantsToBeAMillionaireJoel.pdb
+F:\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\obj\x86\Debug\WhoWantsToBeAMillionaireJoel.exe
+F:\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\obj\x86\Debug\WhoWantsToBeAMillionaireJoel.pdb
+F:\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\bin\Debug\WhoWantsToBeAMillionaireJoel.exe
+F:\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\bin\Debug\WhoWantsToBeAMillionaireJoel.pdb
+F:\WhoWantsToBeAMillionaireJoel\WhoWantsToBeAMillionaireJoel\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.Form1.resources
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.exe
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.pdb
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\2.2SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.exe
+C:\Users\joyg\Desktop\IN511Programming2NEW\Week2\2.2SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.pdb
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.Form1.resources
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.csproj.GenerateResource.Cache
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.Properties.Resources.resources
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.exe
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.pdb
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachineSKELETON\SlotMachine\obj\x86\Debug\SlotMachine.exe
+H:\IN511Programming2 - 2013\Week2\2.2SlotMachineSKELETON\SlotMachine\obj\x86\Debug\SlotMachine.pdb
+H:\IN511 Programming 2\SlotMachine-Joel\SlotMachine\obj\x86\Debug\SlotMachine.exe
+H:\IN511 Programming 2\SlotMachine-Joel\SlotMachine\obj\x86\Debug\SlotMachine.pdb

@@ -1,0 +1,9 @@
+H:\IN511 Programming 2\CreatingPolygons\CreatingPolygons\bin\Debug\CreatingPolygons.exe
+H:\IN511 Programming 2\CreatingPolygons\CreatingPolygons\bin\Debug\CreatingPolygons.pdb
+H:\IN511 Programming 2\CreatingPolygons\CreatingPolygons\obj\x86\Debug\CreatingPolygons.Form1.resources
+H:\IN511 Programming 2\CreatingPolygons\CreatingPolygons\obj\x86\Debug\CreatingPolygons.Properties.Resources.resources
+H:\IN511 Programming 2\CreatingPolygons\CreatingPolygons\obj\x86\Debug\CreatingPolygons.csproj.GenerateResource.Cache
+H:\IN511 Programming 2\CreatingPolygons\CreatingPolygons\obj\x86\Debug\CreatingPolygons.exe
+H:\IN511 Programming 2\CreatingPolygons\CreatingPolygons\obj\x86\Debug\CreatingPolygons.pdb
+H:\IN511 Programming 2\CreatingPolygons - Copy\CreatingPolygons\obj\x86\Debug\CreatingPolygons.exe
+H:\IN511 Programming 2\CreatingPolygons - Copy\CreatingPolygons\obj\x86\Debug\CreatingPolygons.pdb

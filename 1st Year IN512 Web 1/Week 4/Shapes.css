@@ -1,0 +1,85 @@
+.grid
+{
+ display: table;
+ border-spacing: 4px
+}
+
+.row
+{
+ display: table row;
+}
+
+.circle
+{
+display: table-cell;
+width: 140px;
+height: 140px;
+background: red;
+-moz-border-radius: 70px;
+-webkit-border-radius: 70px;
+border-radius: 70px
+}
+
+.square
+{
+display: table-cell;
+float: left;
+width:140px;
+height: 140px;
+background: blue;
+}
+
+.oval
+{
+float: left;
+width:200px;
+height: 100px;
+background: purple;
+-moz-border-radius: 100px / 50px;
+-webkit-border-radius: 100px / 50px;
+border-radius: 100px / 50px
+
+}
+
+.up-triangle
+{
+width: 0;
+height: 0;
+border-bottom: 120px solid green;
+border-left: 60px solid transparent;
+border-right: 60px solid transparent;
+}
+
+.down-triangle
+{
+width: 0;
+height: 0;
+border-top: 120px solid green;
+border-left: 60px solid transparent;
+border-right: 60px solid transparent;
+}
+
+.rectangle
+{
+width:200px;
+height: 100px;
+background: yellow;
+}
+
+.star
+{
+width: 0;
+height: 0;
+border-bottom: 120px solid green;
+border-left: 60px solid transparent;
+border-right: 60px solid transparent;
+}
+
+.star:after
+{
+width: 0;
+height: 0;
+border-top: 120px solid green;
+border-left: 60px solid transparent;
+border-right: 60px solid transparent;
+}

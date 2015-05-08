@@ -1,0 +1,30 @@
+Breed:		American Bobtail
+Country:	United States
+Origin:		Crossbreed
+Coat:		Medium
+Image:		Bobtail.jpg
+
+Breed:		American Curl
+Country:	United States
+Origin:		Mutation
+Coat:		Short/Long
+Image:		American_curl.jpg
+
+Breed:		European Shorthair
+Country:	Sweden-Italy
+Origin:		Natural
+Coat:		Short
+Image:		European_shorthair.jpg
+
+Breed:		Aegean Cat
+Country:	Greece
+Origin:		Natural
+Coat:		Semi-Long
+Image:		Aretaki.jpg
+
+Breed:		Munchkin
+Country:	United States
+Origin:		Mutation
+Coat:		N/A
+Image:		munchkin.jpg
+

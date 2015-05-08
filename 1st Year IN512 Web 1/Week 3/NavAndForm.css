@@ -1,0 +1,19 @@
+h1
+{
+border:1px solid blue;
+padding:50px;
+}
+
+nav
+{
+color:blue;
+width:30px;
+background-color:grey;
+border:2px solid green;
+}
+
+form
+{
+border:1px solid blue;
+padding:50px;
+}

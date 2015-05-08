@@ -1,0 +1,7 @@
+H:\IN511 Programming 2\IN511ProgrammingAssignment-JoelPickworth\IN511ProgrammingAssignment-JoelPickworth\bin\Debug\IN511ProgrammingAssignment-JoelPickworth.exe
+H:\IN511 Programming 2\IN511ProgrammingAssignment-JoelPickworth\IN511ProgrammingAssignment-JoelPickworth\bin\Debug\IN511ProgrammingAssignment-JoelPickworth.pdb
+H:\IN511 Programming 2\IN511ProgrammingAssignment-JoelPickworth\IN511ProgrammingAssignment-JoelPickworth\obj\x86\Debug\IN511ProgrammingAssignment_JoelPickworth.Form1.resources
+H:\IN511 Programming 2\IN511ProgrammingAssignment-JoelPickworth\IN511ProgrammingAssignment-JoelPickworth\obj\x86\Debug\IN511ProgrammingAssignment_JoelPickworth.Properties.Resources.resources
+H:\IN511 Programming 2\IN511ProgrammingAssignment-JoelPickworth\IN511ProgrammingAssignment-JoelPickworth\obj\x86\Debug\IN511ProgrammingAssignment-JoelPickworth.csproj.GenerateResource.Cache
+H:\IN511 Programming 2\IN511ProgrammingAssignment-JoelPickworth\IN511ProgrammingAssignment-JoelPickworth\obj\x86\Debug\IN511ProgrammingAssignment-JoelPickworth.exe
+H:\IN511 Programming 2\IN511ProgrammingAssignment-JoelPickworth\IN511ProgrammingAssignment-JoelPickworth\obj\x86\Debug\IN511ProgrammingAssignment-JoelPickworth.pdb

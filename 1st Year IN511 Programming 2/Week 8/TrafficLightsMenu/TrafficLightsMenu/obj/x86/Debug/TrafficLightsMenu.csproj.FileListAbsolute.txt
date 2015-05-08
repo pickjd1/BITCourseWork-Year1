@@ -1,0 +1,7 @@
+H:\IN511 Programming 2\Week 8\TrafficLightsMenu\TrafficLightsMenu\bin\Debug\TrafficLightsMenu.exe
+H:\IN511 Programming 2\Week 8\TrafficLightsMenu\TrafficLightsMenu\bin\Debug\TrafficLightsMenu.pdb
+H:\IN511 Programming 2\Week 8\TrafficLightsMenu\TrafficLightsMenu\obj\x86\Debug\TrafficLightsMenu.Form1.resources
+H:\IN511 Programming 2\Week 8\TrafficLightsMenu\TrafficLightsMenu\obj\x86\Debug\TrafficLightsMenu.Properties.Resources.resources
+H:\IN511 Programming 2\Week 8\TrafficLightsMenu\TrafficLightsMenu\obj\x86\Debug\TrafficLightsMenu.csproj.GenerateResource.Cache
+H:\IN511 Programming 2\Week 8\TrafficLightsMenu\TrafficLightsMenu\obj\x86\Debug\TrafficLightsMenu.exe
+H:\IN511 Programming 2\Week 8\TrafficLightsMenu\TrafficLightsMenu\obj\x86\Debug\TrafficLightsMenu.pdb

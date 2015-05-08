@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IN511ProgrammingAssignment_JoelPickworth.Ball" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAoAAAgIgAAAAIAAACAAAAAmAAAwDAAAEAgA=</HashCode>
+      <FileName>Ball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IN511ProgrammingAssignment_JoelPickworth.Brick" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAgYAQAAAIEAACAAAAAiIAAAAiAAAAAA=</HashCode>
+      <FileName>Brick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IN511ProgrammingAssignment_JoelPickworth.BrickManager">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAggAgAIABIAAAAQAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>BrickManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IN511ProgrammingAssignment_JoelPickworth.Form1" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAQAACAACAAAEACAAAACAAAAIAgAAAACAgAAAAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IN511ProgrammingAssignment_JoelPickworth.Paddle" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAgYgQAAAIEAACAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Paddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IN511ProgrammingAssignment_JoelPickworth.Program" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IN511ProgrammingAssignment_JoelPickworth.Properties.Resources" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IN511ProgrammingAssignment_JoelPickworth.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

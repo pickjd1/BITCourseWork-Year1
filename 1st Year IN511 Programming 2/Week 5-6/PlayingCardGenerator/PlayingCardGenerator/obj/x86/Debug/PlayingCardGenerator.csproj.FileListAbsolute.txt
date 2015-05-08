@@ -1,0 +1,7 @@
+H:\IN511 Programming 2\Week 5-6\PlayingCardGenerator\PlayingCardGenerator\bin\Debug\PlayingCardGenerator.exe
+H:\IN511 Programming 2\Week 5-6\PlayingCardGenerator\PlayingCardGenerator\bin\Debug\PlayingCardGenerator.pdb
+H:\IN511 Programming 2\Week 5-6\PlayingCardGenerator\PlayingCardGenerator\obj\x86\Debug\PlayingCardGenerator.Form1.resources
+H:\IN511 Programming 2\Week 5-6\PlayingCardGenerator\PlayingCardGenerator\obj\x86\Debug\PlayingCardGenerator.Properties.Resources.resources
+H:\IN511 Programming 2\Week 5-6\PlayingCardGenerator\PlayingCardGenerator\obj\x86\Debug\PlayingCardGenerator.csproj.GenerateResource.Cache
+H:\IN511 Programming 2\Week 5-6\PlayingCardGenerator\PlayingCardGenerator\obj\x86\Debug\PlayingCardGenerator.exe
+H:\IN511 Programming 2\Week 5-6\PlayingCardGenerator\PlayingCardGenerator\obj\x86\Debug\PlayingCardGenerator.pdb

@@ -1,0 +1,8 @@
+H:\IN511 Programming 2\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\NoughtsAndCrosses.exe
+H:\IN511 Programming 2\NoughtsAndCrosses\NoughtsAndCrosses\bin\Debug\NoughtsAndCrosses.pdb
+H:\IN511 Programming 2\NoughtsAndCrosses\NoughtsAndCrosses\obj\x86\Debug\NoughtsAndCrosses.csprojResolveAssemblyReference.cache
+H:\IN511 Programming 2\NoughtsAndCrosses\NoughtsAndCrosses\obj\x86\Debug\NoughtsAndCrosses.Form1.resources
+H:\IN511 Programming 2\NoughtsAndCrosses\NoughtsAndCrosses\obj\x86\Debug\NoughtsAndCrosses.Properties.Resources.resources
+H:\IN511 Programming 2\NoughtsAndCrosses\NoughtsAndCrosses\obj\x86\Debug\NoughtsAndCrosses.csproj.GenerateResource.Cache
+H:\IN511 Programming 2\NoughtsAndCrosses\NoughtsAndCrosses\obj\x86\Debug\NoughtsAndCrosses.exe
+H:\IN511 Programming 2\NoughtsAndCrosses\NoughtsAndCrosses\obj\x86\Debug\NoughtsAndCrosses.pdb

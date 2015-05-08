@@ -1,0 +1,117 @@
+#banner
+{
+position: relative;
+width: 800px;
+height: 200px;
+}
+
+#header
+{
+position: absolute;
+font-size: 20px;
+color: #0B3B0B;
+text-align:center;
+text-decoration: underline;
+left:150px;
+top:50px;
+}
+
+#bannerImage
+{
+position: absolute;
+left:0;
+top:0;
+}
+
+body
+{
+border:1px solid white;
+margin-left: 400px;
+width: 800px;
+background-image:url(Forest.jpg);
+background-size: 100%;
+}
+
+.navBar
+{
+list-style-type: none;
+display:table;
+border:1px solid white;
+color: black;
+height: auto;
+width: 95%;
+float: left;
+background-color:#088A08;
+padding: 20px;
+text-align: center;
+vertical-align:center;
+}
+
+.link 
+{
+display: inline-block;
+color: black;
+text-decoration: none; 
+}
+
+#Content
+{
+background-color: #EFFBEF;
+padding:50px;
+}
+
+#homeText
+{
+width: 50%;
+}
+
+#homePic
+{
+float: left
+}
+
+table, th, td
+{
+border: 1px solid black;
+}
+
+table
+{
+width: 100%;
+border-collapse: collapse;
+}
+
+td
+{
+text-align: center;
+height: 50px;
+padding: 15px;
+}
+
+.grid
+{
+display:table;
+table-layout: auto;
+border-spacing:4px;
+column-gap: 50px;
+}
+
+.row
+{
+display: table row;
+border-spacing:4px;
+}
+
+#ewastePic
+{
+float: left;
+}
+
+#footer
+{
+text-align: center;
+color: black;
+background-color: #088A08;
+border:1px solid white;
+}
+

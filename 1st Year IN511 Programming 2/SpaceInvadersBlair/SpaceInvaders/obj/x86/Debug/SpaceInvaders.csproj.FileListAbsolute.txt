@@ -1,0 +1,14 @@
+H:\Programming 2\Space Invaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Form1.resources
+H:\Programming 2\Space Invaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+H:\Programming 2\Space Invaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+H:\Programming 2\Space Invaders\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+H:\Programming 2\Space Invaders\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+H:\Programming 2\Space Invaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+H:\Programming 2\Space Invaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+H:\Programming 2\Space Invaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+H:\SpaceInvadersBlair\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+H:\SpaceInvadersBlair\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+H:\SpaceInvadersBlair\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+H:\SpaceInvadersBlair\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Form1.resources
+H:\SpaceInvadersBlair\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+H:\SpaceInvadersBlair\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.Cache

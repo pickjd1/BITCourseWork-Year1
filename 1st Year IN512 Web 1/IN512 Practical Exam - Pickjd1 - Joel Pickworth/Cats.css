@@ -1,0 +1,90 @@
+h1
+{
+text-align:center;
+text-decoration: underline;
+}
+
+body
+{
+border:1px solid white;
+margin-left: 400px;
+width: 800px;
+background-image:url(paw-prints-background.jpg);
+}
+
+#navBar
+{
+display:table;
+border:1px solid black;
+color: black;
+height: auto;
+width: 95%;
+float: left;
+background-color:grey;
+padding: 20px;
+text-align: left;
+vertical-align:center;
+}
+
+
+#Content
+{
+background-color: silver;
+padding:30px;
+}
+
+#homeText
+{
+width: 50%;
+}
+
+#homePic
+{
+float: left
+}
+
+table, th, td
+{
+border: 1px solid black;
+}
+
+table
+{
+width: 100%;
+border-collapse: collapse;
+}
+
+td
+{
+text-align: center;
+height: 50px;
+padding: 15px;
+}
+
+.grid
+{
+display:table;
+table-layout: auto;
+border-spacing:4px;
+column-gap: 50px;
+}
+
+.row
+{
+display: table row;
+border-spacing:4px;
+}
+
+.image2
+{
+float: left;
+}
+
+footer
+{
+text-align: center;
+color: black;
+background-color: grey;
+border:1px solid black;
+}
+

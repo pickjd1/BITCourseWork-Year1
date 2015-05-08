@@ -1,0 +1,7 @@
+H:\IN511 Programming 2\SlotMachine-JoelAndMathew\SlotMachine-JoelAndMathew\bin\Debug\SlotMachine-JoelAndMathew.exe
+H:\IN511 Programming 2\SlotMachine-JoelAndMathew\SlotMachine-JoelAndMathew\bin\Debug\SlotMachine-JoelAndMathew.pdb
+H:\IN511 Programming 2\SlotMachine-JoelAndMathew\SlotMachine-JoelAndMathew\obj\x86\Debug\SlotMachine_JoelAndMathew.Form1.resources
+H:\IN511 Programming 2\SlotMachine-JoelAndMathew\SlotMachine-JoelAndMathew\obj\x86\Debug\SlotMachine_JoelAndMathew.Properties.Resources.resources
+H:\IN511 Programming 2\SlotMachine-JoelAndMathew\SlotMachine-JoelAndMathew\obj\x86\Debug\SlotMachine-JoelAndMathew.csproj.GenerateResource.Cache
+H:\IN511 Programming 2\SlotMachine-JoelAndMathew\SlotMachine-JoelAndMathew\obj\x86\Debug\SlotMachine-JoelAndMathew.exe
+H:\IN511 Programming 2\SlotMachine-JoelAndMathew\SlotMachine-JoelAndMathew\obj\x86\Debug\SlotMachine-JoelAndMathew.pdb

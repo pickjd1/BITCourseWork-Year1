@@ -1,0 +1,29 @@
+.grid
+{
+ display: table;
+ border-spacing: 4px
+}
+
+.row
+{
+ display: table row;
+}
+
+.image
+{
+ display: table-cell;
+ width: 100px;
+ background-color: grey;
+ border: 8px solid red;
+ vertical-align: top;
+ text-align: center;
+}
+
+.image p
+{
+ color:blue;
+ font-size: 85%;
+ text-align: left;
+ padding-top: 8px;
+ text-align: center;
+}

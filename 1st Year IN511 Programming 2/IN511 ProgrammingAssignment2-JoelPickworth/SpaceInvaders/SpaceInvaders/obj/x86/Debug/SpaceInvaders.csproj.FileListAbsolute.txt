@@ -1,0 +1,15 @@
+H:\ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Form1.resources
+H:\ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+H:\ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+H:\ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+H:\ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+H:\ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+H:\ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+H:\IN511 ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+H:\IN511 ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+H:\IN511 ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+H:\IN511 ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+H:\IN511 ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+H:\IN511 ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Form1.resources
+H:\IN511 ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+H:\IN511 ProgrammingAssignment2-JoelPickworth\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.Cache

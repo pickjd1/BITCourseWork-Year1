@@ -1,0 +1,25 @@
+h1
+{
+background-color:green;
+}
+
+div#header
+{
+background-color:green;
+color:white;
+padding:12px 12px 12px 12px;
+border:1px solid blue;
+}
+
+div#bodyContent
+{
+
+}
+
+div#footer
+{
+background-color:green;
+color:white;
+padding:12px 12px 12px 12px;
+border:1px solid blue;
+}

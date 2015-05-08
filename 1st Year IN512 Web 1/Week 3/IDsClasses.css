@@ -1,0 +1,80 @@
+div#header
+{
+background-color:grey;
+color:white;
+padding:12px 12px 12px 12px;
+border:1px solid blue;
+}
+
+.nav
+{
+display: block; 
+color:black;
+position: relative; 
+overflow: hidden; 
+width: 760px;
+}
+
+
+h1
+{
+text-align:center;
+}
+
+body
+{
+background-image:url(Green-Forest-Wallpaper-green-20036604-1280-1024.jpg);
+margin-left: 225px;
+width: 800px;
+}
+
+div#bodyContent
+{
+border:2px solid yellow;
+}
+
+div#pics
+{
+border:2px solid green;
+padding:12px 12px 12px 12px;
+}
+
+div#pic
+{
+padding-left: 50px;
+float: left;
+}
+
+div#pic1
+{
+padding-left: 50px;
+float: left;
+}
+
+div#pic2
+{
+padding-left: 50px;
+float: left;
+}
+
+#example
+{
+background-color:red;
+color:white;
+padding:12px 12px 12px 12px;
+}
+
+#example1
+{
+background-color:blue;
+color:white;
+padding:12px 12px 12px 12px;
+}
+
+div#footer
+{
+background-color:red;
+color:white;
+padding:12px 12px 12px 12px;
+border:1px solid blue;
+}
